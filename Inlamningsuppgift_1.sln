@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inlamningsuppgift_1_WebApi", "Inlamningsuppgift_1\Inlamningsuppgift_1_WebApi.csproj", "{08A9395F-76D9-472F-B7F9-B7BADB549377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{83CCC004-488F-4012-8357-31043A627B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A9395F-76D9-472F-B7F9-B7BADB549377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A9395F-76D9-472F-B7F9-B7BADB549377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A9395F-76D9-472F-B7F9-B7BADB549377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A9395F-76D9-472F-B7F9-B7BADB549377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CCC004-488F-4012-8357-31043A627B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CCC004-488F-4012-8357-31043A627B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CCC004-488F-4012-8357-31043A627B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CCC004-488F-4012-8357-31043A627B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332D99BE-D283-4F30-A13C-D881A3E5A401}
+	EndGlobalSection
+EndGlobal
